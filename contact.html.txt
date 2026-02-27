@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ýletiþim</title>
+</head>
+<body>
+
+<header>
+    <h1>Ýletiþim</h1>
+</header>
+
+<nav>
+    <a href="index.html">Ana Sayfa</a> |
+    <a href="about.html">Hakkýmda</a> |
+    <a href="contact.html">Ýletiþim</a>
+</nav>
+
+<main>
+    <p>Bana aþaðýdaki kanallardan ulaþabilirsiniz:</p>
+
+    <p>
+        E-posta: 
+        <a href="mailto:aliibayev@example.com">aliibayev@example.com</a>
+    </p>
+
+    <p>
+        <a href="https://github.com/">GitHub</a>
+    </p>
+</main>
+
+<footer>
+    <p>© 2026 Ali Ýbayev</p>
+</footer>
+
+</body>
+</html>

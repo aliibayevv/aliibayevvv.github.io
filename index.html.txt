@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ana Sayfa</title>
+</head>
+<body>
+
+<header>
+    <h1>Ali Ýbayev</h1>
+    <p>Kiþisel Tanýtým Sayfasý</p>
+</header>
+
+<nav>
+    <a href="index.html">Ana Sayfa</a> |
+    <a href="about.html">Hakkýmda</a> |
+    <a href="contact.html">Ýletiþim</a>
+</nav>
+
+<main>
+    <h2>Hoþ Geldiniz</h2>
+    <p>Bu site Web Programlama dersi kapsamýnda hazýrlanmýþtýr.</p>
+
+    <h2 id="hedef">Hedeflerim</h2>
+    <p>Web geliþtirme alanýnda kendimi geliþtirmek istiyorum.</p>
+
+    <p><a href="#hedef">Hedeflerime Git</a></p>
+</main>
+
+<footer>
+    <p>© 2026 Ali Ýbayev</p>
+</footer>
+
+</body>
+</html>

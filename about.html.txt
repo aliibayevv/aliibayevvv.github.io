@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hakkýmda</title>
+</head>
+<body>
+
+<header>
+    <h1>Hakkýmda</h1>
+</header>
+
+<nav>
+    <a href="index.html">Ana Sayfa</a> |
+    <a href="about.html">Hakkýmda</a> |
+    <a href="contact.html">Ýletiþim</a>
+</nav>
+
+<main>
+    <p>Ben <strong>Ali Ýbayev</strong>, bilgisayar mühendisliði öðrencisiyim.</p>
+
+    <p><em>Web programlama</em> ve yazýlým geliþtirme alanlarýna ilgi duyuyorum.</p>
+
+    <blockquote>
+        "Baþarý düzenli çalýþmanýn sonucudur."
+    </blockquote>
+
+    <h2>Eðitim ve Hedefler</h2>
+    <ul>
+        <li>Üniversite eðitimi</li>
+        <li>Web projeleri geliþtirmek</li>
+        <li>Yazýlým alanýnda uzmanlaþmak</li>
+    </ul>
+</main>
+
+<footer>
+    <p>© 2026 Ali Ýbayev</p>
+</footer>
+
+</body>
+</html>
